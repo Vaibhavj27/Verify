@@ -1,0 +1,20 @@
+*{
+    background-color: #d0ecf7;
+    text-align: center;
+}
+#inputbox{
+    background-color: #ffffff;
+    border-width: 1px ;
+    border-radius: 3px;
+    border-color: rgb(118, 118,118);
+    padding: 1px;
+}
+
+.button{
+    background-color: #f0f0f0;
+    border-radius: 3px;
+    border-width: 1px ;
+    padding: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
