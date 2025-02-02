@@ -8,7 +8,7 @@ var text= document.getElementById("verified");
         if(code.value=="CA/JA1/1811")
             {
               text.innerHTML="Your Student I'd is Verified";
-            }else if(code.value=""){
+            }else if(code.value==""){
                 alert("Please enter a code");
             }else{
                 text.innerHTML="Your Student I'd is not Verified";
